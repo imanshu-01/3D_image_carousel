@@ -2,7 +2,8 @@
 
 A modern, lightweight 3D image carousel built using HTML, CSS, and JavaScript. This project showcases a rotating image slider that adds depth and visual appeal to your web pages.
 
-![Preview]((https://image-carousel-1253.netlify.app/)) <!-- Optional: add preview GIF or screenshot -->
+## Live⚡ :
+https://image-carousel-1253.netlify.app/
 
 ## 🚀 Features
 
